@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shedding Skin"
+title: "Red Baker"
 summary: ""
-#authors: []
-tags: [Books]
+authors: []
+tags: [Books, Featured]
 categories: []
-date: 1972-07-16T22:26:44-04:00
+date: 1985-07-17T21:15:19-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,14 +16,14 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Buy on Amazon
-  url: https://www.amazon.com/Shedding-Skin-Robert-Ward/dp/1440555044
+  url: https://www.amazon.com/Red-Baker-Robert-Ward/dp/1440550204
   icon_pack: fab
   icon: amazon
 
@@ -40,6 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-A tour of the 1950s and 1960s recounts the author's coming-of-age experiences in a period torn between idealism and despair, chronicling his journey between Baltimore and Haight-Ashbury and his witness to the historical events of the time.
-
-This classic novel, the 1972 winner of a National Endowment for the Arts Award, turns, providing an essential companion piece to The King of Cards. Illuminated by the author’s personal experiences, this authentic coming-of-age novel presents a cavalcade of memorable characters and adventures.
+When Red Baker, a Larmel steel worker in Baltimore, Maryland, gets laid off from his job he goes crazy: boozing, attempted philandering, running away from his future. Filled with unforgettable characters from Red’s angry but loyal wife, Wanda; his basketball-star son, Ace; his lifelong friend Dog, a casualty of the layoff; and Crystal, the go-go dancer at Lily’s bar who embodies Red’s fantasies of escape. Red Baker is a classic American novel about a man with no identity who tries to replace the one he’s lost.

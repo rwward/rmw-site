@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shedding Skin"
+title: "Green Dolphin Beat"
 summary: ""
-#authors: []
-tags: [Books]
+authors: []
+tags: [TV_and_Movies]
 categories: []
-date: 1972-07-16T22:26:44-04:00
+date: 1994	-07-17T21:16:46-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,16 +16,16 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Buy on Amazon
-  url: https://www.amazon.com/Shedding-Skin-Robert-Ward/dp/1440555044
+- name: IMDB
+  url: https://www.imdb.com/title/tt0109937/
   icon_pack: fab
-  icon: amazon
+  icon: imdb
 
 url_code: ""
 url_pdf: ""
@@ -39,7 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Credits: Writer
 
-A tour of the 1950s and 1960s recounts the author's coming-of-age experiences in a period torn between idealism and despair, chronicling his journey between Baltimore and Haight-Ashbury and his witness to the historical events of the time.
-
-This classic novel, the 1972 winner of a National Endowment for the Arts Award, turns, providing an essential companion piece to The King of Cards. Illuminated by the author’s personal experiences, this authentic coming-of-age novel presents a cavalcade of memorable characters and adventures.
+Two cops try to solve the murder of a former prostitute while fighting for their jobs in a crime-ridden precinct of a Northwestern city.

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shedding Skin"
+title: "The Cactus Garden"
 summary: ""
-#authors: []
+authors: []
 tags: [Books]
 categories: []
-date: 1972-07-16T22:26:44-04:00
+date: 1995-07-17T21:15:33-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,14 +16,14 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Buy on Amazon
-  url: https://www.amazon.com/Shedding-Skin-Robert-Ward/dp/1440555044
+  url: https://www.amazon.com/Cactus-Garden-Robert-Ward-ebook/dp/B005I5EMDI/
   icon_pack: fab
   icon: amazon
 
@@ -40,6 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-A tour of the 1950s and 1960s recounts the author's coming-of-age experiences in a period torn between idealism and despair, chronicling his journey between Baltimore and Haight-Ashbury and his witness to the historical events of the time.
-
-This classic novel, the 1972 winner of a National Endowment for the Arts Award, turns, providing an essential companion piece to The King of Cards. Illuminated by the author’s personal experiences, this authentic coming-of-age novel presents a cavalcade of memorable characters and adventures.
+Daredevil DEA agent Jack Walker cruised down Hollywood Boulevard into the best unscheduled party of his career: a car-jacking featuring a .38 semiautomatic and his own movieland heroics. In any other city, the pretty woman he saved would be a star. Here she was Charlotte Rae, a former B-movie bombshell waving a lottery ticket straight from hell – a chance to get inside her husband’s drug-smuggling empire. Charlotte Rae and Buddy Wingate were one of California’s self-made platinum couples: the high-rolling discount furniture king and his bottle-blond trophy. It was Jack’s job to penetrate Buddy’s drug operation – and his marriage – and suddenly Jack’s doing a better job than he ever dreamed.

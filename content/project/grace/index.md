@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shedding Skin"
+title: "Grace"
 summary: ""
-#authors: []
-tags: [Books]
+authors: []
+tags: [Books, Featured]
 categories: []
-date: 1972-07-16T22:26:44-04:00
+date: 1998-07-17T21:15:37-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,14 +16,14 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Buy on Amazon
-  url: https://www.amazon.com/Shedding-Skin-Robert-Ward/dp/1440555044
+  url: https://www.amazon.com/Grace-Novel-Robert-Ward/dp/0307440079/
   icon_pack: fab
   icon: amazon
 
@@ -40,6 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-A tour of the 1950s and 1960s recounts the author's coming-of-age experiences in a period torn between idealism and despair, chronicling his journey between Baltimore and Haight-Ashbury and his witness to the historical events of the time.
-
-This classic novel, the 1972 winner of a National Endowment for the Arts Award, turns, providing an essential companion piece to The King of Cards. Illuminated by the author’s personal experiences, this authentic coming-of-age novel presents a cavalcade of memorable characters and adventures.
+Ward recounts his earlier years during the chaotic 1960s with his grandmother Grace, a social activist and church woman who hides deep pain about her secret past, friendships and betrayals, and her mental health.
