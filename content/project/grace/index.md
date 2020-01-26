@@ -4,7 +4,7 @@
 title: "Grace"
 summary: ""
 authors: []
-tags: [Books, Featured]
+tags: [Books]
 categories: []
 date: 1998-07-17T21:15:37-04:00
 
@@ -26,6 +26,10 @@ links:
   url: https://www.amazon.com/Grace-Novel-Robert-Ward/dp/0307440079/
   icon_pack: fab
   icon: amazon
+- name: More info at Down & Out Books
+  url: https://downandoutbooks.com/bookstore/ward-stone-carrier/
+  icon_pack: fas
+  icon: book
 
 url_code: ""
 url_pdf: ""
